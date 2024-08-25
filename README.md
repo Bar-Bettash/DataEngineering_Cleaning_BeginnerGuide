@@ -44,7 +44,7 @@ To run the project, you need the following libraries installed:
   ```sh
   pip install pandas
 
-* numpy: Provides efficient operations on numerical data (arrays, matrices) essential for machine learning algorithms.
+* numpy: Provides efficient operations on numerical data (arrays, matrices).
   ```sh
   pip install numpy
 
